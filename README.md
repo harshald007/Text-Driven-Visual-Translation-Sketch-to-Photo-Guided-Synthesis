@@ -8,7 +8,11 @@
 
 
 
-## Smaple Outputs
+## Sample Input
 
-![WhatsApp Image 2024-05-15 at 1 33 28 PM](https://github.com/user-attachments/assets/da9fca8e-b80e-40b7-ab1b-cc0003c89b32) ![WhatsApp Image 2024-04-17 at 6 04 14 PM](https://github.com/user-attachments/assets/8ccc8433-7ec4-42d3-8c30-b99f31059cc4)
+![WhatsApp Image 2024-05-15 at 1 33 28 PM](https://github.com/user-attachments/assets/da9fca8e-b80e-40b7-ab1b-cc0003c89b32) 
+
+## Sample Output
+
+![WhatsApp Image 2024-04-17 at 6 04 14 PM](https://github.com/user-attachments/assets/8ccc8433-7ec4-42d3-8c30-b99f31059cc4)
 
